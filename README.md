@@ -1,0 +1,2 @@
+# CORScan
+「🔎」CORS vulnerability scanner
