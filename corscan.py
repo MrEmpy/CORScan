@@ -36,7 +36,7 @@ def main():
     '''
     poc2 = '         xhr.open("GET", "{}", true);'
     poc3 = '''
-             xhr.withCredentials = true;
+             xhr.withCredentials = false;
              xhr.send();
              }
          </script>
